@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="03/16/24||17:25:20" using="Simscape Multibody Link Version 7.4" from="SolidWorks 28.0.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem -" uid="Assem -" version="239">
+<AssemblyFile name="Assem -.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="buttom up--1" uid="buttom up--1" grounded="true" entityUid="buttom up-*:*Default">
+<Transform>
+<Rotation>-0.82608883671724864 -0.22457937349937729 0.51685717451707147 -0.27209639454092788 0.96212266930748347 -0.016838090226339746 -0.49349851664313127 -0.15454473204632341 -0.85590603448495384</Rotation>
+<Translation>0.65889847619837172 0.25563863259669939 -0.26320549143709898</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-1" uid="BELT Shelf-1" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>0.82608883671724853 -0.22457937349937679 -0.51685717451707158 0.27209639454092743 0.96212266930748358 0.016838090226339888 0.49349851664313144 -0.15454473204632332 0.85590603448495373</Rotation>
+<Translation>-0.17084803365198564 0.063593453306155956 -0.29624555873129327</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243177 0.0098209008343901338 -0.32434756961333944</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341244838 -0.005179099165609824 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587561 0.0048209008343901294 -0.30934756961333942</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>1.1102230246251568e-16 -1.2490009027033011e-16 0.99999999999999989 0 0.99999999999999989 1.2490009027033011e-16 -1 0 1.1102230246251565e-16</Rotation>
+<Translation>0.10050435416587561 0.0098209008343901338 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-1 1.2490009027033011e-16 -1.1102230246251563e-16 1.2490009027033011e-16 0.99999999999999989 0 1.1102230246251565e-16 0 -0.99999999999999989</Rotation>
+<Translation>0.20500435416587567 -0.005179099165609824 -0.33434756961333956</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 -1.3442630216115108e-16 0 -1.2490009027033011e-16 -0.20654966291015497 0.97843611786958329 -1.1102230246251565e-16 -0.97843611786958329 -0.20654966291015497</Rotation>
+<Translation>0.013004354165875587 0.0098209008343901616 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="BELT Shelf-2" uid="BELT Shelf-2" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>0.82608883671724853 -0.22457937349937679 -0.51685717451707158 0.27209639454092743 0.96212266930748358 0.016838090226339888 0.49349851664313144 -0.15454473204632332 0.85590603448495373</Rotation>
+<Translation>0.2521094507472455 0.2029068073111113 -0.04357431821001001</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341242622 0.0098209008343901616 -0.32434756961333955</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341243728 -0.0051790991656097962 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587561 0.0048209008343901572 -0.30934756961333942</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>1.1102230246251568e-16 -1.2490009027033011e-16 0.99999999999999989 0 0.99999999999999989 1.2490009027033011e-16 -1 0 1.1102230246251565e-16</Rotation>
+<Translation>0.10050435416587561 0.0098209008343901616 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-1 1.2490009027033011e-16 -1.1102230246251563e-16 1.2490009027033011e-16 0.99999999999999989 0 1.1102230246251565e-16 0 -0.99999999999999989</Rotation>
+<Translation>0.2050043541658757 -0.0051790991656097962 -0.33434756961333956</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 -1.3442630216115108e-16 0 -1.2490009027033011e-16 -0.20654966291015497 0.97843611786958329 -1.1102230246251565e-16 -0.97843611786958329 -0.20654966291015497</Rotation>
+<Translation>0.013004354165875642 0.0098209008343901893 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="BELT Shelf-3" uid="BELT Shelf-3" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>0.82608883671724842 -0.22457937349937657 -0.51685717451707158 0.27209639454092721 0.9621226693074838 0.016838090226339933 0.49349851664313155 -0.15454473204632332 0.85590603448495373</Rotation>
+<Translation>0.040630708547629922 0.13325013030863353 -0.16990993847065156</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243871 0.0098209008343901616 -0.32434756961333955</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341243728 -0.0051790991656097962 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587548 0.0048209008343901572 -0.30934756961333931</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 0.99999999999999978 -1.1102230246251565e-16 1 0 -0.99999999999999978 -1.1102230246251565e-16 0</Rotation>
+<Translation>0.10050435416587561 0.0098209008343901893 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-0.99999999999999978 0 0 0 1 0 0 0 -0.99999999999999978</Rotation>
+<Translation>0.20500435416587554 -0.0051790991656097962 -0.33434756961333945</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -0.2065496629101552 0.9784361178695834 0 -0.9784361178695834 -0.2065496629101552</Rotation>
+<Translation>0.013004354165875621 0.0098209008343902171 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="shelfs with belts-1" uid="shelfs with belts-1" entityUid="shelfs with belts" rigid="true">
+<Transform>
+<Rotation>-0.82608883671724853 -0.22457937349937901 0.51685717451707103 -0.27209639454092743 0.96212266930748369 -0.016838090226335756 -0.49349851664313166 -0.1545447320463198 -0.85590603448495428</Rotation>
+<Translation>-0.011149616736306073 0.58482111096963196 -0.20022186759692007</Translation>
+</Transform>
+<Instance name="structure-shelf-Base-room 1-1" uid="structure-shelf-Base-room 1-1" entityUid="structure-shelf-Base-room 1*:*Default&lt;As Machined&gt;">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.40986755918776002 0.0055408815625431762 -0.28622996790491673</Translation>
+</Transform>
+</Instance>
+<Instance name="bar between belts-2" uid="bar between belts-2" entityUid="bar between belts*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.08363244081224025 0.027540881562546637 -0.30722996790491697</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-2" uid="BELT Shelf-2" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 0 -1.1102230246251565e-16 -2.2204460492503131e-16 1 4.1355807667287081e-15 4.4408920985006262e-16 4.1355807667287081e-15 -1</Rotation>
+<Translation>0.065136794978115531 0.033219980728156351 0.0084224624817436922</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243594 0.0098209008343901338 -0.3243475696133396</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341243867 -0.0051790991656098795 0.31565243038666041</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587554 0.0048209008343901294 -0.30934756961333948</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.10050435416587566 0.0098209008343901338 0.3056524303866604</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 1 0 0 0 -1</Rotation>
+<Translation>0.20500435416587576 -0.0051790991656097685 -0.33434756961333961</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -0.20654966291015497 0.97843611786958329 0 -0.97843611786958329 -0.20654966291015492</Rotation>
+<Translation>0.013004354165875627 0.0098209008343900228 0.30565243038666046</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="shelf base11111-1" uid="shelf base11111-1" entityUid="shelf base11111*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.047132440812240217 0.026540881562546637 0.048770032095083043</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-1" uid="BELT Shelf-1" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 0 -1.1102230246251565e-16 -2.2204460492503131e-16 1 4.1355807667287081e-15 4.4408920985006262e-16 4.1355807667287081e-15 -1</Rotation>
+<Translation>0.3211367949781157 0.033219980728157905 0.0084224624817435534</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243177 0.0098209008343902449 -0.32434756961333966</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341243728 -0.0051790991656099905 0.31565243038666041</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587558 0.0048209008343901294 -0.30934756961333953</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 1 0 1 0 -1 0 0</Rotation>
+<Translation>0.10050435416587566 0.0098209008343901338 0.30565243038666046</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-1 0 0 0 1 0 0 0 -1</Rotation>
+<Translation>0.20500435416587573 -0.0051790991656097685 -0.33434756961333956</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -0.20654966291015497 0.97843611786958329 0 -0.97843611786958329 -0.20654966291015492</Rotation>
+<Translation>0.013004354165875642 0.0098209008343901338 0.30565243038666046</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="bar between belts-1" uid="bar between belts-1" entityUid="bar between belts*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.16636755918775978 0.027540881562546637 -0.30722996790491686</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-3" uid="BELT Shelf-3" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 1.9428902930940239e-16 1.1102230246251565e-16 -2.2204460492503131e-16 1 0 4.4408920985006262e-16 0 -1</Rotation>
+<Translation>-0.19086320502188442 0.033219980728146026 0.0084224624817436089</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341242345 0.0098209008343902449 -0.32434756961333949</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341244006 -0.0051790991656098795 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587558 0.0048209008343901294 -0.30934756961333937</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>2.2204460492503136e-16 -2.2204460492503131e-16 1 0 1 2.2204460492503131e-16 -1 0 2.2204460492503136e-16</Rotation>
+<Translation>0.10050435416587558 0.0098209008343901338 0.30565243038666023</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-1 2.2204460492503131e-16 -2.2204460492503131e-16 2.2204460492503131e-16 1 0 2.2204460492503131e-16 0 -1</Rotation>
+<Translation>0.20500435416587579 -0.0051790991656097685 -0.3343475696133395</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>1 -2.6311969953501677e-16 1.7139322293844923e-16 -2.2204460492503131e-16 -0.20654966291015497 0.97843611786958329 -2.2204460492503131e-16 -0.97843611786958329 -0.20654966291015497</Rotation>
+<Translation>0.013004354165875559 0.0098209008343901338 0.30565243038666029</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="roller disk-1" uid="roller disk-1" entityUid="roller disk" rigid="true">
+<Transform>
+<Rotation>0.82608883671724798 -0.22457937349937804 -0.51685717451707169 0.27209639454092838 0.96212266930748347 0.016838090226339031 0.49349851664313182 -0.15454473204632307 0.85590603448495384</Rotation>
+<Translation>0.40781788779038708 0.68558386227390644 0.54256117422680883</Translation>
+</Transform>
+<Instance name="roller -disk-8" uid="roller -disk-8" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046575 0.18847942016128594 -0.10289107073363291</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-5" uid="roller -disk-5" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046575 0.18847942016128605 -0.027891070733632867</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-2" uid="roller -disk-2" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046575 0.18847942016128583 0.047108929266367117</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-3" uid="roller -disk-3" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046564 0.18847942016128594 0.022108929266367094</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-4" uid="roller -disk-4" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046564 0.18847942016128594 -0.0028910707336328723</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-6" uid="roller -disk-6" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046575 0.18847942016128583 -0.052891070733632861</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-7" uid="roller -disk-7" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046575 0.18847942016128583 -0.077891070733632883</Translation>
+</Transform>
+</Instance>
+<Instance name="disk base-1" uid="disk base-1" grounded="true" entityUid="disk base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.51721632991046573 0.14747942016128579 -0.10889107073363308</Translation>
+</Transform>
+</Instance>
+<Instance name="wheels_04[1]-1" uid="wheels_04[1]-1" entityUid="wheels_04[1]" rigid="true">
+<Transform>
+<Rotation>2.2204460492503131e-16 0 1 0 -1 0 1 -1.1102230246251565e-16 0</Rotation>
+<Translation>-0.57210058723796986 0.20926367341687024 0.030693250358906021</Translation>
+</Transform>
+<Instance name="hex flange nut gradea_iso-22" uid="hex flange nut gradea_iso-22" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.0030843210925391995 0.072784253255584352 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-27" uid="plain washer large grade ac_iso-27" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460756 0.081984253255584338 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-23" uid="hex flange nut gradea_iso-23" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.003084321092539144 0.072784253255584352 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="plate127-1" uid="plate127-1" grounded="true" entityUid="plate127*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.046765678907460861 0.064784253255584345 0.098834257327503949</Translation>
+</Transform>
+</Instance>
+<Instance name="hex bolt gradeab_iso-13" uid="hex bolt gradeab_iso-13" entityUid="hex bolt gradeab_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 -1 0 0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.061284253255584287 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex bolt gradeab_iso-16" uid="hex bolt gradeab_iso-16" entityUid="hex bolt gradeab_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 -1 0 0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460811 0.061284253255584287 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-25" uid="hex flange nut gradea_iso-25" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>0.096615678907460867 0.072784253255584241 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-22" uid="plain washer large grade ac_iso-22" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460867 0.072784253255584352 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="ring11-1" uid="ring11-1" entityUid="ring11*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.096615678907460867 0.073984253255584442 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="ring11-4" uid="ring11-4" entityUid="ring11*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.073984253255584331 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="ring11-2" uid="ring11-2" entityUid="ring11*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.073984253255584442 0.12915425732750402</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-25" uid="plain washer large grade ac_iso-25" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.081984253255584449 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-26" uid="plain washer large grade ac_iso-26" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.081984253255584338 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-28" uid="plain washer large grade ac_iso-28" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460867 0.081984253255584338 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex bolt gradeab_iso-14" uid="hex bolt gradeab_iso-14" entityUid="hex bolt gradeab_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 -1 0 0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.061284253255584287 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-20" uid="plain washer large grade ac_iso-20" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.072784253255584352 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-24" uid="hex flange nut gradea_iso-24" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>0.096615678907460811 0.072784253255584241 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-19" uid="plain washer large grade ac_iso-19" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1.3877787807814457e-16 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.0030843210925391995 0.072784253255584352 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="hex bolt gradeab_iso-15" uid="hex bolt gradeab_iso-15" entityUid="hex bolt gradeab_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 -1 0 0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460811 0.061284253255584287 0.068514257327503991</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-23" uid="plain washer large grade ac_iso-23" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460867 0.072784253255584241 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="ring11-3" uid="ring11-3" entityUid="ring11*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.096615678907460811 0.073984253255584331 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-31" uid="plain washer large grade ac_iso-31" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.093384253255584193 0.068514257327503991</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-30" uid="plain washer large grade ac_iso-30" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>-0.003084321092539144 0.093384253255584415 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel-3" uid="wheel-3" entityUid="wheel" rigid="true">
+<Transform>
+<Rotation>1 1.6653345369377348e-16 -1.3877787807814457e-16 1.1102230246251565e-16 0 0.99999999999999989 1.6653345369377348e-16 -1 0</Rotation>
+<Translation>0.09776973224065072 0.077287341665360443 0.075812137354089093</Translation>
+</Transform>
+<Instance name="wheelIN-1" uid="wheelIN-1" grounded="true" entityUid="wheelIN*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+<Instance name="wheelOUT-1" uid="wheelOUT-1" entityUid="wheelOUT*:*Default">
+<Transform>
+<Rotation>0.88796480341470807 -0.45991141309678207 0 0.45991141309678213 0.88796480341470807 0 0 0 0.99999999999999989</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="hex flange nut gradea_iso-28" uid="hex flange nut gradea_iso-28" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.0030843210925391995 0.099584253255584287 0.068514257327503991</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer large grade ac_iso-33" uid="plain washer large grade ac_iso-33" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>0 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460867 0.093384253255584304 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-29" uid="hex flange nut gradea_iso-29" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>0.096615678907460867 0.099584253255584287 0.12915425732750396</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-30" uid="hex flange nut gradea_iso-30" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 1.6653345369377348e-16 -1.3877787807814457e-16 1.1102230246251565e-16 0 0.99999999999999989 1.6653345369377348e-16 -1 0</Rotation>
+<Translation>0.096615678907460867 0.099584253255584398 0.068514257327503991</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel-1" uid="wheel-1" entityUid="wheel" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>0.097769732240650775 0.077287341665360332 0.13645213735408906</Translation>
+</Transform>
+<Instance name="wheelIN-1" uid="wheelIN-1" grounded="true" entityUid="wheelIN*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+<Instance name="wheelOUT-1" uid="wheelOUT-1" entityUid="wheelOUT*:*Default">
+<Transform>
+<Rotation>0.88796480341470807 -0.45991141309678202 0 0.45991141309678202 0.88796480341470785 0 0 0 0.99999999999999989</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="wheel-2" uid="wheel-2" entityUid="wheel" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.0019302677593492357 0.077287341665360443 0.13645213735408912</Translation>
+</Transform>
+<Instance name="wheelIN-1" uid="wheelIN-1" grounded="true" entityUid="wheelIN*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851573 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+<Instance name="wheelOUT-1" uid="wheelOUT-1" entityUid="wheelOUT*:*Default">
+<Transform>
+<Rotation>0.88796480341470807 -0.45991141309678202 0 0.45991141309678202 0.88796480341470785 0 0 0 0.99999999999999989</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851573 0.016096911590223972</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="wheel-4" uid="wheel-4" entityUid="wheel" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.0019302677593492912 0.077287341665360443 0.075812137354089038</Translation>
+</Transform>
+<Instance name="wheelIN-1" uid="wheelIN-1" grounded="true" entityUid="wheelIN*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223861</Translation>
+</Transform>
+</Instance>
+<Instance name="wheelOUT-1" uid="wheelOUT-1" entityUid="wheelOUT*:*Default">
+<Transform>
+<Rotation>0.88796480341470807 -0.45991141309678202 0 0.45991141309678202 0.88796480341470785 0 0 0 0.99999999999999989</Rotation>
+<Translation>-0.0011540533331899083 0.0072978800265851018 0.016096911590223861</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="plain washer large grade ac_iso-32" uid="plain washer large grade ac_iso-32" entityUid="plain washer large grade ac_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1.3877787807814457e-16 1 0 -0.99999999999999989 0 0 0 0 1</Rotation>
+<Translation>0.096615678907460811 0.093384253255584415 0.068514257327503936</Translation>
+</Transform>
+</Instance>
+<Instance name="hex flange nut gradea_iso-27" uid="hex flange nut gradea_iso-27" entityUid="hex flange nut gradea_iso*:*PreviewCfg">
+<Transform>
+<Rotation>1 0 0 0 0 0.99999999999999989 0 -1 0</Rotation>
+<Translation>-0.003084321092539144 0.098384253255584309 0.12915425732750402</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="support of roller2-1" uid="support of roller2-1" entityUid="support of roller2*:*Default">
+<Transform>
+<Rotation>-1 -1.6653345369377348e-16 -1.5265566588595902e-16 2.3592239273284576e-16 -1.6653345369377348e-16 -1 -1.1102230246251565e-16 -1 1.1102230246251565e-16</Rotation>
+<Translation>-0.16921632991046565 0.14947942016128579 0.0911089292663671</Translation>
+</Transform>
+</Instance>
+<Instance name="front side-1" uid="front side-1" entityUid="front side*:*Default">
+<Transform>
+<Rotation>0 -2.7755575615628914e-16 -1 1 1.1102230246251565e-16 0 1.1102230246251563e-16 -1 2.7755575615628914e-16</Rotation>
+<Translation>-0.51721632991046529 0.1474794201612859 0.1401089292663687</Translation>
+</Transform>
+</Instance>
+<Instance name="roller -disk-1" uid="roller -disk-1" entityUid="roller -disk*:*Default">
+<Transform>
+<Rotation>1 0 -1.6653345369377348e-16 0 0.90127289323010484 0.43325185738625061 3.3306690738754696e-16 -0.43325185738625049 0.90127289323010484</Rotation>
+<Translation>-0.28421632991046564 0.18847942016128583 0.072108929266366972</Translation>
+</Transform>
+</Instance>
+<Instance name="support of roller-2" uid="support of roller-2" entityUid="support of roller*:*Default">
+<Transform>
+<Rotation>-1 2.7755575615628909e-16 -2.0816681711721678e-16 2.081668171172168e-16 0 -0.99999999999999989 -2.7755575615628909e-16 -0.99999999999999989 0</Rotation>
+<Translation>-0.40121632991046569 0.1494794201612859 0.091108929266366934</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="shelfs with belts-2" uid="shelfs with belts-2" entityUid="shelfs with belts" rigid="true">
+<Transform>
+<Rotation>-0.82608883671724853 -0.22457937349937873 0.51685717451707081 -0.27209639454092721 0.96212266930748391 -0.01683809022633577 -0.4934985166431316 -0.15454473204631955 -0.85590603448495461</Rotation>
+<Translation>0.043198591650542621 0.35198742499722124 -0.16282204244170989</Translation>
+</Transform>
+<Instance name="structure-shelf-Base-room 1-1" uid="structure-shelf-Base-room 1-1" entityUid="structure-shelf-Base-room 1*:*Default&lt;As Machined&gt;">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.40986755918776002 0.0055408815625432872 -0.28622996790491695</Translation>
+</Transform>
+</Instance>
+<Instance name="bar between belts-2" uid="bar between belts-2" entityUid="bar between belts*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.083632440812240139 0.027540881562546693 -0.30722996790491708</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-2" uid="BELT Shelf-2" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 0 -1.6653345369377365e-16 0 1 4.1078251911130784e-15 1.6653345369377348e-16 4.1078251911130784e-15 -1</Rotation>
+<Translation>0.065136794978115531 0.033219980728156351 0.0084224624817436922</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243594 0.0098209008343901893 -0.32434756961333955</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341243832 -0.005179099165609824 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587546 0.0048209008343901849 -0.30934756961333953</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 1.0000000000000002 0 -1 0 0</Rotation>
+<Translation>0.10050435416587562 0.0098209008343901338 0.30565243038666046</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-0.99999999999999989 0 0 0 1.0000000000000002 0 0 0 -1</Rotation>
+<Translation>0.20500435416587554 -0.005179099165609824 -0.33434756961333956</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 0 0 0 -0.20654966291015495 0.9784361178695834 0 -0.97843611786958351 -0.20654966291015497</Rotation>
+<Translation>0.013004354165875618 0.0098209008343901338 0.3056524303866604</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="shelf base11111-1" uid="shelf base11111-1" entityUid="shelf base11111*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.047132440812240259 0.026540881562546637 0.048770032095083127</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-1" uid="BELT Shelf-1" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 0 -1.6653345369377365e-16 0 1 4.1078251911130784e-15 1.6653345369377348e-16 4.1078251911130784e-15 -1</Rotation>
+<Translation>0.32113679497811565 0.033219980728157794 0.0084224624817436089</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243177 0.0098209008343901893 -0.32434756961333955</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0039956458341244283 -0.0051790991656098795 0.31565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.1005043541658755 0.0048209008343901849 -0.30934756961333953</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 1.0000000000000002 0 -1 0 0</Rotation>
+<Translation>0.10050435416587566 0.0098209008343901893 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-0.99999999999999989 0 0 0 1.0000000000000002 0 0 0 -1</Rotation>
+<Translation>0.20500435416587556 -0.005179099165609713 -0.33434756961333956</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 0 0 0 -0.20654966291015495 0.9784361178695834 0 -0.97843611786958351 -0.20654966291015497</Rotation>
+<Translation>0.013004354165875642 0.0098209008343901338 0.3056524303866604</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="bar between belts-1" uid="bar between belts-1" entityUid="bar between belts*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.16636755918775986 0.027540881562546582 -0.30722996790491708</Translation>
+</Transform>
+</Instance>
+<Instance name="BELT Shelf-3" uid="BELT Shelf-3" entityUid="BELT Shelf" rigid="true">
+<Transform>
+<Rotation>-1 0 -1.6653345369377348e-16 0 1 0 1.6653345369377348e-16 0 -1</Rotation>
+<Translation>-0.19086320502188442 0.033219980728146137 0.0084224624817435534</Translation>
+</Transform>
+<Instance name="back roller-1" uid="back roller-1" entityUid="back roller*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0044956458341243732 0.0098209008343901338 -0.3243475696133396</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-1" uid="belt support-1" grounded="true" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.003995645834124345 -0.0051790991656097685 0.31565243038666041</Translation>
+</Transform>
+</Instance>
+<Instance name="roller plate-1" uid="roller plate-1" entityUid="roller plate*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.10050435416587564 0.0048209008343901849 -0.30934756961333948</Translation>
+</Transform>
+</Instance>
+<Instance name="Belt1-1^BELT Shelf-1" uid="Belt1-1^BELT Shelf-1" entityUid="Belt1-1^BELT Shelf*:*Default">
+<Transform>
+<Rotation>0 0 0.99999999999999989 0 1.0000000000000002 0 -1 0 0</Rotation>
+<Translation>0.10050435416587564 0.0098209008343901893 0.3056524303866604</Translation>
+</Transform>
+</Instance>
+<Instance name="belt support-2" uid="belt support-2" entityUid="belt support*:*Default">
+<Transform>
+<Rotation>-0.99999999999999989 0 0 0 1.0000000000000002 0 0 0 -1</Rotation>
+<Translation>0.20500435416587556 -0.005179099165609824 -0.33434756961333961</Translation>
+</Transform>
+</Instance>
+<Instance name="front roller-1" uid="front roller-1" entityUid="front roller*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 0 0 0 -0.20654966291015503 0.9784361178695834 0 -0.97843611786958351 -0.20654966291015503</Rotation>
+<Translation>0.013004354165875615 0.0098209008343901338 0.30565243038666035</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BELT Shelf-1</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0 -0.0014999999999999736 -0.64999999999999991</Position>
+<Axis>-1.3877787807814457e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.75000000000000022 -0.0099999999999998979 -0.61299999999999999</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-1</Uid>
+<Uid>belt support-1</Uid>
+</InstancePath>
+<Position>0.0080000000000000071 -0.010000000000000009 -0.099999999999999992</Position>
+<Axis>-1.3877787807814457e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.55700000000000016 -0.0099999999999999534 -0.16299999999999998</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-1</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.0079999999999999793 -0.0099999999999999811 -0.099999999999999978</Position>
+<Axis>1.3877787807814457e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.49400000000000016 -0.0099999999999999534 -0.16299999999999998</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-1</Uid>
+</InstancePath>
+<Position>0.0079999999999999655 -0.010000000000000064 -0.55000000000000004</Position>
+<Axis>0 1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0 -0.0014999999999999181 -0.64999999999999991</Position>
+<Axis>0 -1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.49400000000000027 -0.0099999999999999256 -0.61299999999999999</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-1</Uid>
+</InstancePath>
+<Position>0.0079999999999999637 -0.010000000000000037 -0.099999999999999992</Position>
+<Axis>0 1 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BELT Shelf-2</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0 -0.0014999999999999458 -0.64999999999999991</Position>
+<Axis>-1.3877787807814457e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.045000000000000207 -0.0099999999999999811 -0.61299999999999999</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-2</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.0080000000000000626 -0.0099999999999999811 -0.54999999999999993</Position>
+<Axis>1.3877787807814457e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.045000000000000095 -0.0099999999999999811 -0.16299999999999998</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>BELT Shelf-2</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.0080000000000000071 -0.0099999999999999811 -0.099999999999999978</Position>
+<Axis>1.3877787807814457e-16 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 -0.71299999999999986</Position>
+<Axis>1.6653345369377348e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-2</Uid>
+<Uid>shelf base11111-1</Uid>
+</InstancePath>
+<Position>0 1.3877787807814457e-15 -0.35600000000000009</Position>
+<Axis>-1.6653345369377348e-16 4.0523140398818214e-15 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 -0.71299999999999986</Position>
+<Axis>1.6653345369377348e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-1</Uid>
+<Uid>shelf base11111-1</Uid>
+</InstancePath>
+<Position>0 1.4432899320127035e-15 -0.35599999999999993</Position>
+<Axis>1.1102230246251565e-16 4.0523140398818214e-15 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>BELT Shelf-2</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.01799999999999996 0 -0.64999999999999991</Position>
+<Axis>-1 -1.5265566588595902e-16 1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-1</Uid>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.018000000000000071 0 -0.64999999999999991</Position>
+<Axis>-1 -1.5265566588595902e-16 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-1</Uid>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.018000000000000071 0 -0.64999999999999991</Position>
+<Axis>-1 -1.5265566588595902e-16 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-2</Uid>
+<Uid>BELT Shelf-3</Uid>
+<Uid>belt support-2</Uid>
+</InstancePath>
+<Position>0.017999999999999905 0 -0.65000000000000013</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Distance name="Distance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-2</Uid>
+<Uid>shelf base11111-1</Uid>
+</InstancePath>
+<Position>0 -0.042000000000002646 -3.3306690738754696e-16</Position>
+<Axis>0 -1.0000000000000002 -7.4384942649885488e-15</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-1</Uid>
+<Uid>shelf base11111-1</Uid>
+</InstancePath>
+<Position>0 -0.042000000000002591 -3.0531133177191805e-16</Position>
+<Axis>-1.1102230246251565e-16 -1 -7.4107386893729199e-15</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>shelfs with belts-2</Uid>
+<Uid>shelf base11111-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="Distance3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.9800000000000002 0 -0.71299999999999986</Position>
+<Axis>1.6653345369377348e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>roller disk-1</Uid>
+<Uid>front side-1</Uid>
+</InstancePath>
+<Position>-1.1102230246251565e-16 0.249 1.7763568394002505e-15</Position>
+<Axis>-1.1102230246251565e-16 1 7.2719608112947753e-15</Axis>
+</ConstraintGeometry>
+</Distance>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.98000000000000032 -0.2599999999999999 -0.71549999999999991</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>roller disk-1</Uid>
+<Uid>front side-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -3.219646771412954e-15 1</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Parallel name="Parallel2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.98000000000000032 -0.25999999999999979 -0.71299999999999997</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>roller disk-1</Uid>
+<Uid>disk base-1</Uid>
+</InstancePath>
+<Position>0 -0.0030000000000000027 0.25</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Distance name="LimitDistance1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>roller disk-1</Uid>
+<Uid>front side-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -3.219646771412954e-15 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.96000000000000019 -0.0099999999999998979 -0.69199999999999995</Position>
+<Axis>0.99999999999999989 0 -1.6653345369377348e-16</Axis>
+</ConstraintGeometry>
+</Distance>
+<Distance name="LimitDistance2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>buttom up--1</Uid>
+</InstancePath>
+<Position>0.98000000000000032 -0.25999999999999979 -0.71299999999999997</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>roller disk-1</Uid>
+<Uid>disk base-1</Uid>
+</InstancePath>
+<Position>0 -0.0030000000000000027 0.25</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Distance>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="BELT Shelf" uid="BELT Shelf" version="198">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="BELT Shelf.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="shelfs with belts" uid="shelfs with belts" version="187">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="shelfs with belts.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="roller disk" uid="roller disk" version="1277">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="roller disk.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="wheels_04[1]" uid="wheels_04[1]" version="587">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="wheels_04[1].SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="wheel" uid="wheel" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="wheel.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Belt1-1^BELT Shelf" uid="Belt1-1^BELT Shelf*:*Default" version="108">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="BELT Shelf.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.2227451320177643</Mass>
+<CenterOfMass>0.31499999999999995 0 0</CenterOfMass>
+<Inertia>0.00055044568864218613 0.0084967280631048376 0.0079742846991947922 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Belt1-1-BELT Shelf_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Specular r="0.14901960784313725" g="0.14901960784313725" b="0.14901960784313725" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.80000001192092896</Shininess>
+</VisualProperties>
+</Part>
+<Part name="back roller" uid="back roller*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="back roller.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.031795902167349448</Mass>
+<CenterOfMass>0.10228395061728393 0 0</CenterOfMass>
+<Inertia>8.7104369290593466e-07 8.4240002719899386e-05 8.4240002719899386e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="back roller_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bar between belts" uid="bar between belts*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bar between belts.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.098768528525975965</Mass>
+<CenterOfMass>0.00022773339318804062 0.068301341900902271 0.29998509017418451</CenterOfMass>
+<Inertia>0.0031770384608681935 0.0029634934360518376 0.00021493583089695983 -1.0131833919052845e-07 1.2181918125229237e-08 4.9441729121496479e-06</Inertia>
+</MassProperties>
+<GeometryFile name="bar between belts_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="belt support" uid="belt support*:*Default" version="140">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="belt support.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.30328268925822488</Mass>
+<CenterOfMass>0.014325360557680187 0.0062851637268214093 -0.32500000000000007</CenterOfMass>
+<Inertia>0.010328143013965405 0.010317032849529319 3.2770879533026887e-05 0 0 -9.4243336842690383e-06</Inertia>
+</MassProperties>
+<GeometryFile name="belt support_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="buttom up-" uid="buttom up-*:*Default" version="273">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="buttom up-.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>10.830628980539416</Mass>
+<CenterOfMass>0.48480384611019023 -0.10800655842657142 -0.60871457176484878</CenterOfMass>
+<Inertia>1.1837731872736117 1.8767716565297332 1.0039036738572347 -0.32623177192307568 0.01131808552430047 0.0048875997901224738</Inertia>
+</MassProperties>
+<GeometryFile name="buttom up-_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="disk base" uid="disk base*:*Default" version="264">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="disk base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2.0349773845212531</Mass>
+<CenterOfMass>0.17557021213085189 -0.0014999999999999998 0.12442464940768067</CenterOfMass>
+<Inertia>0.010547233226795282 0.031172756632411886 0.020628575871693387 0 -7.5221721792418725e-05 0</Inertia>
+</MassProperties>
+<GeometryFile name="disk base_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="front roller" uid="front roller*:*Default" version="111">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="front roller.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.030898663305484214</Mass>
+<CenterOfMass>0.087500000000000022 0 0</CenterOfMass>
+<Inertia>8.638657820110134e-07 7.6135994548977938e-05 7.6135994548977938e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="front roller_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="front side" uid="front side*:*Default" version="215">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="front side.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.94355294364834075</Mass>
+<CenterOfMass>0.086703217187176787 0.082050406427694747 -0.087053133676229869</CenterOfMass>
+<Inertia>0.01857110057194214 0.012389142879210009 0.010551094282522815 -0.0050643496807601393 -0.00050660358516135091 -0.0004632327928670319</Inertia>
+</MassProperties>
+<GeometryFile name="front side_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex bolt gradeab_iso" uid="hex bolt gradeab_iso*:*PreviewCfg" version="1257">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex bolt gradeab_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.057329144447253927</Mass>
+<CenterOfMass>0.044617522577490409 3.5516754876087919e-09 0</CenterOfMass>
+<Inertia>5.9019346409669081e-06 6.3062762362867781e-05 6.3062778455093735e-05 3.5749497608258355e-13 -2.6490369907831207e-14 7.5288118869635233e-12</Inertia>
+</MassProperties>
+<GeometryFile name="hex bolt gradeab_iso_PreviewCfg_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.60000002384185791</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hex flange nut gradea_iso" uid="hex flange nut gradea_iso*:*PreviewCfg" version="1268">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="hex flange nut gradea_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014336065855284724</Mass>
+<CenterOfMass>-2.3407270445317877e-10 -2.060366281850877e-09 -0.012798565243369659</CenterOfMass>
+<Inertia>2.0441664298731109e-06 2.0441663627630526e-06 2.7458288481531119e-06 2.570401820337306e-13 3.6049140519689023e-14 7.4433922860796796e-13</Inertia>
+</MassProperties>
+<GeometryFile name="hex flange nut gradea_iso_PreviewCfg_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.60000002384185791</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer large grade ac_iso" uid="plain washer large grade ac_iso*:*PreviewCfg" version="945">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="plain washer large grade ac_iso.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.06646981736465285</Mass>
+<CenterOfMass>-0.0040000000000000018 0 0</CenterOfMass>
+<Inertia>0.00011317317279049201 5.6941092087857484e-05 5.6941092087857497e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer large grade ac_iso_PreviewCfg_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.60000002384185791</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plate127" uid="plate127*:*Default" version="126">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="plate127.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.036012592940278546</Mass>
+<CenterOfMass>-0.00057415486625702608 0.0015 0</CenterOfMass>
+<Inertia>2.3563780980363046e-05 7.5625877168282422e-05 5.21161150773298e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plate127_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Diffuse r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Specular r="0.075294120638978251" g="0.075294120638978251" b="0.075294120638978251" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.5</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ring11" uid="ring11*:*Default" version="141">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ring11.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00015079644737231007</Mass>
+<CenterOfMass>0 0.0040000000000000001 0</CenterOfMass>
+<Inertia>1.5016812884159223e-09 1.3948671381938685e-09 1.5016812884159221e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="ring11_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="roller -disk" uid="roller -disk*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="roller -disk.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0419699499760001</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>1.1700865961635535e-06 0.00019042202723363444 0.00019042202723363444 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="roller -disk_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="roller plate" uid="roller plate*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="roller plate.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.0618199999999998</Mass>
+<CenterOfMass>0 0.0050000000000000001 0.29999999999999993</CenterOfMass>
+<Inertia>0.032232407999999983 0.034893230999999983 0.0026785199999999972 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="roller plate_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="1" g="1" b="1" a="1"/>
+<Emissive r="0.29999999999999999" g="0.29999999999999999" b="0.29999999999999999" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="shelf base11111" uid="shelf base11111*:*Default" version="301">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="shelf base11111.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>7.1028031721242924</Mass>
+<CenterOfMass>-0.0057200467426485263 -0.0078248594831936292 -9.3893477075105336e-05</CenterOfMass>
+<Inertia>0.38191615232074266 1.0207497215807078 0.64172463723904793 4.8849992344261476e-06 0.00032096889279640178 0.00029759707306472412</Inertia>
+</MassProperties>
+<GeometryFile name="shelf base11111_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="structure-shelf-Base-room 1" uid="structure-shelf-Base-room 1*:*Default&lt;As Machined&gt;" version="511">
+<ModelUnits mass="kilogram" length="centimeter"/>
+<PartFile name="structure-shelf-Base-room 1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.8734224901680265</Mass>
+<CenterOfMass>0.45680873848711556 4.2827445966732771e-09 0.33500000000000185</CenterOfMass>
+<Inertia>0.14423201485234777 0.36666997059616707 0.22315814442562984 0 0 -1.5345298158626788e-12</Inertia>
+</MassProperties>
+<GeometryFile name="structure-shelf-Base-room 1_Default&lt;As Machined&gt;_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="support of roller" uid="support of roller*:*Default" version="187">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="support of roller.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.17728703943350635</Mass>
+<CenterOfMass>0.001187487330100727 0.099290564824770264 -0.015390279057191437</CenterOfMass>
+<Inertia>0.00062504704263238525 4.1290643008641916e-05 0.0005903960597377991 -1.6747521867339507e-06 -6.3486663265552935e-06 -2.7512829183701228e-07</Inertia>
+</MassProperties>
+<GeometryFile name="support of roller_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="support of roller2" uid="support of roller2*:*Default" version="194">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="support of roller2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.17852011455004035</Mass>
+<CenterOfMass>0.0011723779055897757 0.099640825314159229 -0.01540830493603308</CenterOfMass>
+<Inertia>0.00062821968190337205 4.131296041466239e-05 0.0005935589229199488 -1.512697271292237e-06 -6.355656999456386e-06 -1.3929266723272226e-07</Inertia>
+</MassProperties>
+<GeometryFile name="support of roller2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Diffuse r="0.65098039215686276" g="0.61960784313725492" b="0.58823529411764708" a="1"/>
+<Specular r="0.52078432148578124" g="0.49568628189610503" b="0.47058824230642882" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.10000000149011612</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wheelIN" uid="wheelIN*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="wheelIN.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0010675261165795692</Mass>
+<CenterOfMass>0 0 -0.0050999999999999986</CenterOfMass>
+<Inertia>2.326232892702507e-08 2.3262328927025067e-08 2.536580063267499e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="wheelIN_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.5" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wheelOUT" uid="wheelOUT*:*Default" version="188">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="wheelOUT.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0021749876084919762</Mass>
+<CenterOfMass>0 0 -0.0050999999999999952</CenterOfMass>
+<Inertia>1.2473309896118143e-07 1.247330989611814e-07 2.0819097388436836e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="wheelOUT_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.29803921568627451" g="0.29803921568627451" b="0.29803921568627451" a="1"/>
+<Diffuse r="0.20862745098039215" g="0.20862745098039215" b="0.20862745098039215" a="1"/>
+<Specular r="0.014901960784313726" g="0.014901960784313726" b="0.014901960784313726" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
